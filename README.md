@@ -1,0 +1,4 @@
+YUI_MOBILE_WIDGET
+=================
+
+YUI_MOBILE_WIDGET
