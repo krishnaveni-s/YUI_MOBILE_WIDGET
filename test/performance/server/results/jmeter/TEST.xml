@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="33" lt="33" ts="1344854026837" s="false" lb="TEST" rc="404" rm="Not Found" tn="HTML5MobileWidget_FrameWork 1-1" dt="text" by="1129"/>
+<httpSample t="2" lt="2" ts="1344854026899" s="false" lb="TEST" rc="404" rm="Not Found" tn="HTML5MobileWidget_FrameWork 1-1" dt="text" by="1129"/>
+<httpSample t="2" lt="2" ts="1344854027728" s="false" lb="TEST" rc="404" rm="Not Found" tn="HTML5MobileWidget_FrameWork 1-2" dt="text" by="1129"/>
+<httpSample t="3" lt="3" ts="1344854027728" s="false" lb="TEST" rc="404" rm="Not Found" tn="HTML5MobileWidget_FrameWork 1-2" dt="text" by="1129"/>
+
+</testResults>
